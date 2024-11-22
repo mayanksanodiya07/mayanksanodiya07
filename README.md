@@ -1,43 +1,35 @@
-Hi there, I'm Mayank Sanodiya 👋
-🚀 About Me
-I'm a final-year Computer Science Engineering (CSE) student at GHRCE Nagpur, passionate about web development, big data computing, and blockchain technology. I enjoy building innovative solutions and exploring cutting-edge technologies to solve real-world problems.
+<section style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f4f4f4; color: #333; max-width: 800px; margin: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <h1 style="font-size: 2.5rem; color: #007acc; text-align: center;">Hi there, I'm Mayank Sanodiya 👋</h1>
+  <hr style="margin: 20px 0; border: none; border-top: 2px solid #007acc;">
+  
+  <h2 style="color: #007acc; font-size: 1.8rem;">🚀 About Me</h2>
+  <p>
+    I'm a <strong>final-year Computer Science Engineering (CSE) student</strong> at <strong>GHRCE Nagpur</strong>, passionate about <strong>web development</strong>, 
+    <strong>big data computing</strong>, and <strong>blockchain technology</strong>. I enjoy building innovative solutions and exploring cutting-edge technologies to solve real-world problems.
+  </p>
 
-💼 Skills & Technologies
-Frontend: React.js, HTML5, CSS3, JavaScript, Tailwind CSS
-Backend: Node.js, Express.js
-Blockchain: Solidity, Web3.js
-Databases: MongoDB, MySQL
-Tools: Git, GitHub, Vercel, Docker
-Other: RESTful APIs, Big Data Computing, NLP (Natural Language Processing)
-🌟 Projects
-Here are a few of my standout projects:
+  <h2 style="color: #007acc; font-size: 1.8rem;">💼 Skills & Technologies</h2>
+  <ul style="list-style-type: square; margin-left: 20px;">
+    <li><strong>Frontend:</strong> React.js, HTML5, CSS3, JavaScript, Tailwind CSS</li>
+    <li><strong>Backend:</strong> Node.js, Express.js</li>
+    <li><strong>Blockchain:</strong> Solidity, Web3.js</li>
+    <li><strong>Databases:</strong> MongoDB, MySQL</li>
+    <li><strong>Tools:</strong> Git, GitHub, Vercel, Docker</li>
+    <li><strong>Other:</strong> RESTful APIs, Big Data Computing, NLP (Natural Language Processing)</li>
+  </ul>
 
-Faculty Upscaling Web Application
+  <h2 style="color: #007acc; font-size: 1.8rem;">📫 How to Reach Me</h2>
+  <p>
+    <strong>Email:</strong> <a href="mailto:mayanksanodiya07@gmail.com" style="color: #007acc;">mayanksanodiya07@gmail.com</a><br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mayank-sanodiya" target="_blank" style="color: #007acc;">Mayank Sanodiya</a><br>
+    <strong>GitHub:</strong> <a href="https://github.com/mayanksanodiya140" target="_blank" style="color: #007acc;">mayanksanodiya140</a>
+  </p>
 
-A platform designed to enhance faculty self-appraisal and upskilling.
-Features: Secure login, real-time tracking, admin dashboard, faculty appraisal trends, and performance evaluations.
-Tech Stack: React.js, Node.js, MongoDB, and RESTful APIs.
-Moviegram
+  <h2 style="color: #007acc; font-size: 1.8rem;">🌱 Fun Facts</h2>
+  <ul style="list-style-type: square; margin-left: 20px;">
+    <li>I admire my father the most for his guidance and support.</li>
+    <li>I’m always keen to learn new technologies and collaborate on exciting projects.</li>
+  </ul>
 
-A web app for movie enthusiasts to search for movies, view details, and manage a personalized watched list.
-Features: IMDb ratings, genre filters, and a user-friendly interface.
-Tech Stack: React.js, Movie APIs.
-Blockchain Login & Signup System
-
-A decentralized authentication system leveraging Solidity smart contracts.
-Features: Secure Ethereum-based login and registration.
-Course Recommendation System
-
-An NLP-powered recommendation system to suggest personalized learning paths for faculty members.
-Features: Tokenization of responses and intelligent course matching.
-🏆 Achievements
-Python Hackathon Winner: Led my team to victory in a Python-based hackathon during my first year.
-Maintained a CGPA of 9.11 throughout my academic journey.
-📫 How to Reach Me
-Email: mayanksanodiya07@gmail.com
-LinkedIn: Mayank Sanodiya
-GitHub: mayanksanodiya140
-🌱 Fun Facts
-I admire my father the most for his guidance and support.
-I’m always keen to learn new technologies and collaborate on exciting projects.
-Feel free to check out my repositories and reach out for collaboration opportunities. 😊
+  <p style="text-align: center; margin-top: 20px; color: #666;">Feel free to check out my repositories and reach out for collaboration opportunities. 😊</p>
+</section>
