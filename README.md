@@ -1,5 +1,5 @@
 <p style="width: 100%; height: 150px; overflow: hidden; margin-bottom: 20px;">
-  <img src="https://drive.usercontent.google.com/download?id=1t0Q69gPUdusvA6wcoYBViYf8EoW6UM2N&export=view&authuser=0" alt="Mayank Sanodiya" style="border-radius: 50%; width: 100%;">
+  <img src="https://drive.usercontent.google.com/download?id=1oMfey7cYF6DU0P6AYxenvUXP4NrAellK&export=view&authuser=0" alt="Mayank Sanodiya" style="border-radius: 50%; width: 100%;">
 </p>
 
 
