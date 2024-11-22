@@ -2,28 +2,31 @@
   <h1 style="font-size: 2.5rem; color: #007acc; text-align: center;">Hi there, I'm Mayank Sanodiya 👋</h1>
   <hr style="margin: 20px 0; border: none; border-top: 2px solid #007acc;">
   
-  <h2 style="color: #007acc; font-size: 1.8rem;">🚀 About Me</h2>
-  <p>
-    I'm a <strong>final-year Computer Science Engineering (CSE) student</strong> at <strong>GHRCE Nagpur</strong>, passionate about <strong>web development</strong>, 
-    <strong>big data computing</strong>, and <strong>blockchain technology</strong>. I enjoy building innovative solutions and exploring cutting-edge technologies to solve real-world problems.
-  </p>
+   <h2 style="color: #007acc; font-size: 1.8rem;">🚀 About Me</h2>
+  <ul style="list-style-type: square; margin-left: 20px;">
+    <li>I am a full-stack web developer skilled in both front-end and back-end development.</li>
+    <li>Final-year Computer Science Engineering (CSE) student at GHRCE Nagpur, passionate about creating innovative web applications.</li>
+    <li>I enjoy solving real-world problems and creating simple, useful web applications.</li>
+    <li>I am open to work and always looking for new opportunities to learn and grow.</li>
+    <li>Committed to improving my skills while contributing to meaningful projects and helping others achieve their goals.</li>
+  </ul>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">💼 Skills & Technologies</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
-    <li><strong>Frontend:</strong> React.js, HTML5, CSS3, JavaScript, Tailwind CSS</li>
-    <li><strong>Backend:</strong> Node.js, Express.js</li>
-    <li><strong>Blockchain:</strong> Solidity, Web3.js</li>
-    <li><strong>Databases:</strong> MongoDB, MySQL</li>
-    <li><strong>Tools:</strong> Git, GitHub, Vercel, Docker</li>
-    <li><strong>Other:</strong> RESTful APIs, Big Data Computing, NLP (Natural Language Processing)</li>
+    <li><strong>Programming Languages:</strong> C, C++, JavaScript, Python</li>
+  <li><strong>Frontend:</strong> HTML, CSS, React.js, Tailwind CSS, Bootstrap</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, Supabase</li>
+  <li><strong>Databases:</strong> MongoDB</li>
+  <li><strong>Tools:</strong> VS Code, Figma, Git, GitHub, Vercel</li>
+  <li><strong>Other:</strong> RESTful APIs, NLP (Natural Language Processing)</li>
   </ul>
 
-  <h2 style="color: #007acc; font-size: 1.8rem;">📫 How to Reach Me</h2>
-  <p>
-    <strong>Email:</strong> <a href="mailto:mayanksanodiya07@gmail.com" style="color: #007acc;">mayanksanodiya07@gmail.com</a><br>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mayank-sanodiya" target="_blank" style="color: #007acc;">Mayank Sanodiya</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/mayanksanodiya140" target="_blank" style="color: #007acc;">mayanksanodiya140</a>
-  </p>
+  <h2 style="color: #007acc; font-size: 1.8rem;">📫 Get in Touch</h2>
+<p>
+  <strong><a href="mailto:mayanksanodiya07@gmail.com" style="color: #007acc;">Email</a></strong> |  
+  <strong><a href="https://www.linkedin.com/in/mayank-sanodiya-58310322a" target="_blank" style="color: #007acc;">LinkedIn</a></strong> |
+  <strong><a href="https://mayanksanodiya.vercel.app/" target="_blank" style="color: #007acc;">Website</a></strong> 
+</p>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">🌱 Fun Facts</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
