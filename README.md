@@ -1,4 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p>
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mayank Sanodiya" style="border-radius: 50%; width: 100%; height: 150px; object-fit: cover; margin-bottom: 20px;">
+</p>
+
+
+
 <section style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f4f4f4; color: #333; max-width: 800px; margin: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <h1 style="font-size: 2.5rem; color: #007acc; text-align: center;">Hi there, I'm Mayank Sanodiya 👋</h1>
   
