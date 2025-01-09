@@ -20,7 +20,7 @@
   <h2 style="color: #007acc; font-size: 1.8rem;">💼 Skills & Technologies</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
     <li><strong>Programming Languages:</strong> C, C++, JavaScript, Python</li>
-  <li><strong>Frontend:</strong> HTML, CSS, React.js, Nect.js Tailwind CSS, Bootstrap</li>
+  <li><strong>Frontend:</strong> HTML, CSS, React.js, Nect.js, Tailwind CSS, Bootstrap</li>
   <li><strong>Backend:</strong> Node.js, Express.js, Supabase</li>
   <li><strong>Databases:</strong> MongoDB</li>
   <li><strong>Tools:</strong> VS Code, Figma, Git, GitHub, Vercel</li>
