@@ -36,7 +36,7 @@
 
   <h2 style="color: #007acc; font-size: 1.8rem;">🌱 Fun Facts</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
-    <li>I admire my father the most for his guidance and support.</li>
+    <li>I admire my parents most for their unwavering guidance and support.</li>
     <li>I’m always keen to learn new technologies and collaborate on exciting projects.</li>
   </ul>
 
