@@ -10,21 +10,20 @@
   <hr style="margin: 20px 0; border: none; border-top: 2px solid #007acc;">
    <h2 style="color: #007acc; font-size: 1.8rem;">🚀 About Me</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
-    <li>I am a full-stack web developer skilled in both front-end and back-end development.</li>
-    <li>Final-year Computer Science Engineering (CSE) student at GHRCE Nagpur, passionate about creating innovative web applications.</li>
-    <li>I enjoy solving real-world problems and creating simple, useful web applications.</li>
-    <li>I am open to work and always looking for new opportunities to learn and grow.</li>
-    <li>Committed to improving my skills while contributing to meaningful projects and helping others achieve their goals.</li>
+    <li>Full-stack web developer with front-end and back-end expertise.</li>
+    <li>Final-year CSE student at GHRCE Nagpur, passionate about building innovative, real-world web apps.</li>
+    <li>Open to work, eager to learn, and committed to meaningful, collaborative growth.</li>
+
   </ul>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">💼 Skills & Technologies</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
     <li><strong>Programming Languages:</strong> C/C++, JavaScript, Java</li>
-  <li><strong>Frontend:</strong> HTML, CSS, React.js, Nect.js, Tailwind CSS, Bootstrap</li>
-  <li><strong>Backend:</strong> Node.js, Express.js, Supabase</li>
-  <li><strong>Databases:</strong> MongoDB</li>
-  <li><strong>Tools:</strong> VS Code, Figma, Git, GitHub, Vercel</li>
-  <li><strong>Other:</strong> RESTful APIs, NLP (Natural Language Processing)</li>
+    <li><strong>Frontend:</strong> HTML, CSS, React.js, Nect.js, Tailwind CSS, Bootstrap</li>
+    <li><strong>Backend:</strong> Node.js, Express.js, Supabase</li>
+    <li><strong>Databases:</strong> MongoDB</li>
+    <li><strong>Tools:</strong> VS Code, Figma, Git, GitHub, Vercel</li>
+    <li><strong>Other:</strong> RESTful APIs, NLP (Natural Language Processing)</li>
   </ul>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">📫 Get in Touch</h2>
