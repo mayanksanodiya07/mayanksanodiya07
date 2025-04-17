@@ -11,7 +11,6 @@
     <li>Full-stack web developer with front-end and back-end expertise.</li>
     <li>Final-year CSE student at GHRCE Nagpur, passionate about building innovative, real-world web apps.</li>
     <li>Open to work, eager to learn, and committed to meaningful, collaborative growth.</li>
-
   </ul>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">💼 Skills & Technologies</h2>
@@ -25,11 +24,11 @@
   </ul>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">📫 Get in Touch</h2>
-<p>
-  <strong><a href="mailto:mayanksanodiya07@gmail.com" style="color: #007acc;">Email</a></strong> |  
-  <strong><a href="https://www.linkedin.com/in/mayank-sanodiya-58310322a" target="_blank" style="color: #007acc;">LinkedIn</a></strong> |
-  <strong><a href="https://mayanksanodiya.vercel.app/" target="_blank" style="color: #007acc;">Website</a></strong> 
-</p>
+  <p>
+    <strong><a href="mailto:mayanksanodiya07@gmail.com" style="color: #007acc;">Email</a></strong> |  
+    <strong><a href="https://www.linkedin.com/in/mayank-sanodiya-58310322a" target="_blank" style="color: #007acc;">LinkedIn</a></strong> |
+    <strong><a href="https://mayanksanodiya.vercel.app/" target="_blank" style="color: #007acc;">Website</a></strong> 
+  </p>
 
   <h2 style="color: #007acc; font-size: 1.8rem;">🌱 Fun Facts</h2>
   <ul style="list-style-type: square; margin-left: 20px;">
